@@ -3,6 +3,8 @@
 This is an introduction of AngularJS 2x as prepared for the General Assembly
 conference exercise.
 
+![picture alt](https://cdn.meme.am/instances/47797720.jpg)
+
 ## Prerequisites
 -   JavaScript
 -   jQuery
@@ -10,8 +12,8 @@ conference exercise.
 
 ## Objectives
 By the end of this, developers should be able to:
--   Explain how AngularJS at a high-level.
--   Explain the benefits of using AngularJS.
+-   Explain how AngularJS works at a high-level.
+-   Explain the key benefits of using AngularJS.
 -   Have a foundation to get started on AngularJS development.
 
 ## Instructions
@@ -19,7 +21,7 @@ By the end of this, developers should be able to:
 -   Create a new branch, named `training`.
 -   Checkout the `training` branch.
 -   Install dependencies by running `npm install`
--   Enter 'npm start' in terminal.
+-   Enter `npm start` in terminal.
 -   Open localhost using specified port from terminal.
 
 ## What is AngularJS?
